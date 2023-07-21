@@ -44,7 +44,6 @@
 ---
 
 ## Data Structure Used
-* List
 * Mysql
 ---
 
